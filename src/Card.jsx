@@ -22,7 +22,7 @@ const Card = ({ OldPrice, NewPrice, Labled }) => {
       <div className="card flex ">
         {Labled && <Lable icon={<FiStar />} text="RECOMMENDED" />}
         <div className="img">
-          <img src="./professional.png" alt="professional" />
+          <img src="./professional.webp" alt="professional" />
         </div>
         <div className="content">
           <h2>Devloper Marketing Mastery</h2>
